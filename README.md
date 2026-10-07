@@ -63,3 +63,7 @@ A two-player 3D browser game inspired by the "Red Light, Green Light" round from
 ---
 
 👤 **Tony Mulunda** — [GitHub @Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+An interactive 3D browser game demonstrating JavaScript beyond traditional websites. It showcases Three.js scene development, 3D asset loading, GSAP animation, keyboard interaction, timing logic and event-driven game mechanics.
