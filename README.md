@@ -6,6 +6,8 @@ A two-player 3D browser game inspired by the "Red Light, Green Light" round from
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
+<p align="center"><img src="docs/images/gameplay.jpg" alt="Game start screen with the 3D doll" width="80%"></p>
+
 ## 🎮 How to Play
 
 1. Press **Start** — a 3-second countdown begins.
